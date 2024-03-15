@@ -601,7 +601,7 @@
       "showEmptyIntervals": false
     },
     "identifier": {
-      "fgColor": "Gray 120",
+      "fgColor": "Red 70",
       "layer": 10,
       "fullLine": false,
       "showEmptyIntervals": false
